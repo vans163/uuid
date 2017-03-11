@@ -1,4 +1,4 @@
-{application, test,
+{application, uuid,
  [{description, "Simple UUID4 library"},
   {vsn, "0.1.0"},
   {registered, []},
